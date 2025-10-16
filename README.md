@@ -24,6 +24,13 @@ I'm a final-year Electronics Instrumentation and Control Engineering student at 
 - 👯 I’m looking to collaborate on impactful open-source projects.
 - 🏆 Fun Fact: My team and I secured 2nd rank at the **Hackmol 6.0** hackathon!
 - 📫 How to reach me: **techjeet14@gmail.com**
+- Portfolio:<a href="https://abhijeet-portfolio-one.vercel.app/" target="_blank">
+  <img align="center"
+       src="https://www.svgrepo.com/show/450480/portfolio.svg"
+       alt="Portfolio"
+       height="40"
+       width="40" />
+</a>
 
 ---
 
@@ -32,6 +39,7 @@ I'm a final-year Electronics Instrumentation and Control Engineering student at 
 <p align="left">
   <a href="https://www.linkedin.com/in/abhijeet-saini-bb626836a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abhijeet" height="30" width="40" /></a>
   <a href="https://leetcode.com/Profile/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="leetcode_profile" height="30" width="40" /></a>
+
 </p>
 
 ---
