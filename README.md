@@ -82,7 +82,3 @@ Here are a few technologies I've been working with recently:
 </p>
 
 <br>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=curiouscoder259&theme=tokyonight" alt="curiouscoder259" />
-</p> 
