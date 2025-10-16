@@ -16,10 +16,10 @@
 
 ### 👨‍💻 About Me
 
-I'm a final-year Electronics and Computer Science student at **NIT Jalandhar**. I'm passionate about building scalable web applications and solving real-world problems. I thrive on turning complex ideas into simple, beautiful, and functional software.
+I'm a final-year Electronics Instrumentation and Control Engineering student at **NIT Jalandhar**. I'm passionate about building scalable web applications and solving real-world problems. I thrive on turning complex ideas into simple, beautiful, and functional software.
 
-- 🔭 I’m currently working on **AI IntelliNotes**, an AI-powered note-taking app using the Gemini API.
-- 🌱 I’m diving deep into **System Design** and advanced **MERN stack** concepts.
+-🔭 I’m passionate about building **AI-integrated full stack projects** that combine innovation with real-world impact.  
+-🌱 I’m focused on enhancing my **problem-solving skills** by practicing extensive **Data Structures and Algorithms**, and growing as a **MERN Stack Developer**.
 - 👯 I’m looking to collaborate on impactful open-source projects.
 - 🏆 Fun Fact: My team and I secured 2nd rank at the **Hackmol 6.0** hackathon!
 - 📫 How to reach me: **techjeet14@gmail.com**
